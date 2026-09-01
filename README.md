@@ -1,7 +1,9 @@
 📱 Institutional Assessment Platform — App Aluno (Flutter)
+
 Aplicativo mobile desenvolvido em Flutter voltado para a realização de avaliações institucionais de forma segura, com suporte nativo a offline-first e mecanismos de prevenção a fraudes.  
 
 🚀 Sobre o Projeto
+
 O aplicativo é o módulo do aluno da plataforma de avaliação. Ele permite que o estudante baixe a prova, responda às questões mesmo sem conexão com a internet e sincronize suas respostas de forma assíncrona assim que a conectividade for reestabelecida.  
 
 🌟 Principais Recursos
